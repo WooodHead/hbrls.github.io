@@ -1,7 +1,7 @@
 {
-  "name": "hbrls.github.io",
-  "version": "0.0.1",
-  "description": "GitHub Pages Custom Domain",
+  "name": "hbrls",
+  "version": "0.1.0",
+  "description": "http://lisite.de",
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production browserify src/home/index.js -o static/dist/index.js -t envify -g yo-yoify -g unassertify -g es2020 -g uglifyify"
@@ -12,10 +12,6 @@
   },
   "author": "shuaizhexu@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hbrls/hbrls.github.io/issues"
-  },
-  "homepage": "https://github.com/hbrls/hbrls.github.io",
   "dependencies": {
     "choo": "4.0.3",
     "d3": "^3.5.5",

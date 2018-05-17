@@ -38,3 +38,12 @@ $ sudo apt-get install rabbitmq-server
 $ sudo service rabbitmq-server start
 $ sudo service rabbitmq-server restart
 ```
+
+Rabbitmq Management
+==
+
+```bash
+$ sudo rabbitmq-plugins enable rabbitmq_management
+$ sudo rabbitmqctl add_user admin {password}
+$ sudo rabbitmqctl set_user_tags admin administrator
+```

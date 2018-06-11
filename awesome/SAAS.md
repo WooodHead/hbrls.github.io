@@ -1,8 +1,6 @@
 Project
 =======
 
-1. [群策](http://qortex.cn/about)：好像是基于wiki
-2. [Gleasy 格子云](http://www.gleasy.com/)：什么都有，现有功能的在线化，集中化
 3. [Yammer](https://www.yammer.com/) is a Private Social Network for Your Company
 4. [Wrike](http://www.wrike.com/)：All-in-one collaboration and project management software
 5. [Apollo](http://www.apollohq.com/)：is project and contact management

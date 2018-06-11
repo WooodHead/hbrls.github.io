@@ -8,7 +8,7 @@ http://www.leiphone.com/
 http://news.cnblogs.com/
 http://www.infoq.com/cn/rss/
 http://www.oschina.net/project
-http://insights.thoughtworkers.org/
+http://insights.thoughtworkers.cn/
 http://www.alibuybuy.com/
 http://www.uisdc.com/
 http://www.qianduan.net/           前端观察
@@ -47,7 +47,6 @@ http://facebook.github.io/react/blog/
 http://ued.taobao.com/blog/     淘宝 UED
 http://taobaofed.org/           淘宝 FED
 http://cdc.tencent.com/         腾讯 CDC
-http://ued.sina.com.cn/         新浪 UED
 http://ued.ctrip.com/blog/      携程 UED
 http://f2e.souche.com/blog/     大搜车前端
 http://www.alloyteam.com/       AlloyTeam

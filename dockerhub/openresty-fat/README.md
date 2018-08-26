@@ -1,2 +1,3 @@
-openresty-fat
-==
+```
+FROM hbrls/openresty-fat:latest 
+```

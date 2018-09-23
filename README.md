@@ -20,28 +20,28 @@
 
 1. run 
 
-    ``bash
-    $ docker pull certbot/certbot:v0.22.0
-    $ docker run -it --rm -v /etc/nginx/cert/:/etc/letsencrypt --entrypoint /bin/sh certbot/certbot:v0.22.0
-    $ (in container) certbot --server https://acme-v02.api.letsencrypt.org/directory -d "lisite.de,*.lisite.de" --manual --preferred-challenges dns-01 certonly
-    # follow the instructions, !!! TXT DNS TTL -> 60 second 
-    ```
+        ``bash
+        $ docker pull certbot/certbot:v0.22.0
+        $ docker run -it --rm -v /etc/nginx/cert/:/etc/letsencrypt --entrypoint /bin/sh certbot/certbot:v0.22.0
+        $ (in container) certbot --server https://acme-v02.api.letsencrypt.org/directory -d "lisite.de,*.lisite.de" --manual --preferred-challenges dns-01 certonly
+        # follow the instructions, !!! TXT DNS TTL -> 60 second 
+        ```
 2. will generate
 
-    ```bash
-    ...
-    ./live/lisite.de/cert.pem
-    ./live/lisite.de/chain.pem
-    ./live/lisite.de/fullchain.pem
-    ./live/lisite.de/privkey.pem
-    ```
+        ```bash
+        ...    
+        ./live/lisite.de/cert.pem
+        ./live/lisite.de/chain.pem
+        ./live/lisite.de/fullchain.pem
+        ./live/lisite.de/privkey.pem
+        ```
 
 3. nginx.conf
 
-    ```bash
-    ssl_certificate     /etc/nginx/cert/live/lisite.de/fullchain.pem;
-    ssl_certificate_key /etc/nginx/cert/live/lisite.de/privkey.pem;
-    ```
+        ```bash
+        ssl_certificate     /etc/nginx/cert/live/lisite.de/fullchain.pem;
+        ssl_certificate_key /etc/nginx/cert/live/lisite.de/privkey.pem;
+        ```
 
 # Jekyll
 

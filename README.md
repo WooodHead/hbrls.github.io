@@ -19,6 +19,7 @@
 # Let's Encrypt
 
 1. run 
+
     ``bash
     $ docker pull certbot/certbot:v0.22.0
     $ docker run -it --rm -v /etc/nginx/cert/:/etc/letsencrypt --entrypoint /bin/sh certbot/certbot:v0.22.0
@@ -26,6 +27,7 @@
     # follow the instructions, !!! TXT DNS TTL -> 60 second 
     ```
 2. will generate
+
     ```bash
     ...
     ./live/lisite.de/cert.pem
@@ -35,6 +37,7 @@
     ```
 
 3. nginx.conf
+
     ```bash
     ssl_certificate     /etc/nginx/cert/live/lisite.de/fullchain.pem;
     ssl_certificate_key /etc/nginx/cert/live/lisite.de/privkey.pem;

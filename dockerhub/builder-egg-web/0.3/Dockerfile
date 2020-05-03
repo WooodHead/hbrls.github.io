@@ -22,10 +22,3 @@ FROM node:8.16.0-stretch-slim
 COPY --from=builder /var/app /var/app
 COPY --from=builder /var/app-run /var/app-run
 COPY --from=builder /var/app-build /var/app-build
-
-WORKDIR /var/app
-
-ENV NODE_ENV production
-ENV EGG_SERVER_ENV prod
-
-CMD ["/usr/local/bin/node", "/var/app/index.js"]

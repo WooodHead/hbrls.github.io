@@ -1,3 +1,20 @@
+Fedora CoreOS
+==
+
+    $ brew install fcct
+    
+    # vultr.fcc
+    variant: fcos
+    version: 1.0.0
+    passwd:
+      users:
+        - name: core
+          ssh_authorized_keys:
+            - "ssh-rsa AAAAB..."
+      groups: [ sudo, docker ]
+    
+    $ fcct -o vultr.ign vultr.fcc
+
 CoreOS
 ==
 

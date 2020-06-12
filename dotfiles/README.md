@@ -126,6 +126,8 @@ Design
 6. [微信小程序设计指南](https://developers.weixin.qq.com/miniprogram/design/#%E5%8F%8B%E5%A5%BD%E7%A4%BC%E8%B2%8C)
 7. [Salesforce Lightning](https://www.lightningdesignsystem.com/utilities/text/)
 8. [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+9. https://evergreen.segment.com/components/
+10. https://baseweb.design/
 
 Animation
 ==

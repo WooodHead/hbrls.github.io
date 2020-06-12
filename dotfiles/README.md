@@ -121,6 +121,7 @@ Design
 2. https://guide.aotu.io/docs/html/code.html
 3. https://semantic-ui.com/collections/menu.html
 4. https://material.io/components/data-tables
+5. https://yyued.gitbooks.io/pattern/content/
 
 Animation
 ==

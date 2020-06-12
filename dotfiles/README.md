@@ -54,7 +54,7 @@ HTML/CSS
 6. [CSS语言内部其实根本不存在复用机制](http://www.zhihu.com/question/20658520/answer/15770608)
 7. [CSS Bliss Walkthrough](http://gilbox.github.io/css-bliss/walkthrough/release/)
 8. [Semantic HTML](http://justineo.github.io/slideshows/semantic-html/#/)
-9. [<head>](https://github.com/joshbuchea/HEAD)
+9. [<head](https://github.com/joshbuchea/HEAD)
 
 JavaScript
 ==

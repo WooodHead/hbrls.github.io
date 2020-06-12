@@ -41,6 +41,7 @@ Http
 
 1. [HTTP 2.0的那些事](http://mrpeak.cn/blog/http2/)
 2. [An overview of realtime protocols](https://deepstreamhub.com/blog/an-overview-of-realtime-protocols/)
+3. [STOMP Over WebSocket](http://jmesnil.net/stomp-websocket/doc/)
 
 HTML/CSS
 ==

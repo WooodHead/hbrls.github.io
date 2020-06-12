@@ -119,6 +119,7 @@ Design
 
 1. https://rizzo.lonelyplanet.com/styleguide/design-elements/colours
 2. https://guide.aotu.io/docs/html/code.html
+3. https://semantic-ui.com/collections/menu.html
 
 Animation
 ==

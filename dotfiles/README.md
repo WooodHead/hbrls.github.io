@@ -122,6 +122,7 @@ Design
 3. https://semantic-ui.com/collections/menu.html
 4. https://material.io/components/data-tables
 5. https://yyued.gitbooks.io/pattern/content/
+6. [微信小程序设计指南](https://developers.weixin.qq.com/miniprogram/design/#%E5%8F%8B%E5%A5%BD%E7%A4%BC%E8%B2%8C)
 
 Animation
 ==

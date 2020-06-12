@@ -114,6 +114,11 @@ Design
 3. [7 Rules for Creating Gorgeous UI (Part I)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.sizyu0gqs), [(Part II)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96#.gbhkh41ps)
 4. [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
+设计规范
+==
+
+1. https://rizzo.lonelyplanet.com/styleguide/design-elements/colours
+
 Animation
 ==
 

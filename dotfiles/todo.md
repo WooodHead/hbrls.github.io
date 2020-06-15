@@ -2,3 +2,4 @@
 2. [End user oriented web performance testing and beaconing](https://github.com/akamai/boomerang)
 3. [如何更优雅的使用egg的日志体系？](https://github.com/eggjs/egg/issues/2006)
 4. [[RFC] egg-opentracing](https://github.com/eggjs/egg/issues/39)
+5. [关于egg-view 模板引擎 SET_LOCALS 合并ctx, request, helper 上下文问题](https://github.com/eggjs/egg/issues/1627)

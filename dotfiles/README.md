@@ -170,3 +170,4 @@ Others
 1. [平台级 SAAS 架构的基础：统一身份管理系统](https://www.jianshu.com/p/990d8acfdb69)
 2. [微服务架构下的统一身份认证和授权](https://www.jianshu.com/p/2571f6a4e192)
 3. [浅聊Kubernetes的各种认证策略以及适用场景](http://dockone.io/article/9561)
+4. [蚂蚁前端研发最佳实践](https://github.com/sorrycc/blog/issues/90)

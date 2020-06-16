@@ -2,6 +2,7 @@
 2. [End user oriented web performance testing and beaconing](https://github.com/akamai/boomerang)
 3. [为什么这么设计](https://draveness.me/)
 4. [Sculptor Boot 生成器体系核心](https://github.com/cdk8s/sculptor-boot-generator)
+5. https://www.infoq.com/articles/C4-architecture-model/
 
 EGG
 ==

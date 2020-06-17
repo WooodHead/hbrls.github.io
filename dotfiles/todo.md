@@ -7,6 +7,7 @@
 7. [Node.js 专栏](https://www.yuque.com/egg/nodejs)
 8. [深度解读当代前端架构进化史，下一个趋势在哪？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f)
 9. [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
+10. https://www.happyhues.co/
 
 EGG
 ==

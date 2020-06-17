@@ -271,3 +271,5 @@ Saint Chen，IT从业 者
 15. [无论更换多少朋友，社交结构始终如初](http://jandan.net/2014/01/15/friends-change.html)
 16. [白鸦：SaaS业务的价值评估](https://mp.weixin.qq.com/s/FWJ6qp0KGMBNPtESJ9tJ_w)
 17. [白鸦内部培训：企业服务类产品的底层逻辑，和“有赞产品设计原则”](https://mp.weixin.qq.com/s/-kLQPDU-9337mN1ebjuYqA)
+18. [一个有趣的问题：中文BBS的遗产被谁继承了？](https://mp.weixin.qq.com/s/r-vqBySyZIelLaZ8GdkrRQ)
+

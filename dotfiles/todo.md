@@ -10,6 +10,7 @@
 10. https://www.happyhues.co/
 11. [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
 12. [OpenAPI Specification Version 3.0.3](http://spec.openapis.org/oas/v3.0.3)
+13. [第三届 SEE Conf 2020](https://www.yuque.com/seeconf/2020)
 
 EGG
 ==

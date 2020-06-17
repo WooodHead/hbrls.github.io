@@ -140,6 +140,11 @@ Stats
 
 1. [期望、方差、协方差及相关系数的基本运算](http://blog.codinglabs.org/articles/basic-statistics-calculate.html)
 
+雷达
+==
+
+1. [2019 前端技术发展回顾](https://zhuanlan.zhihu.com/p/101517039)
+
 创业
 ==
 

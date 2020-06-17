@@ -9,6 +9,7 @@
 9. [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
 10. https://www.happyhues.co/
 11. [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
+12. [OpenAPI Specification Version 3.0.3](http://spec.openapis.org/oas/v3.0.3)
 
 EGG
 ==

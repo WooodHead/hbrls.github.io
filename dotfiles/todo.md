@@ -15,6 +15,7 @@
 15. [生鲜 B2B 技术平台的前端团队该如何搭建](https://www.yuque.com/sxc/fe/lozoc9)
 16. [宋小菜大前端](https://www.yuque.com/sxc/fe)
 17. https://github.com/you-dont-need
+18. [前端 DSL 实践指南（上）—— 内部 DSL](https://zhuanlan.zhihu.com/p/107947462)
 
 EGG
 ==

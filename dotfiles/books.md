@@ -113,3 +113,5 @@ Courses
 9. [Integralist](http://www.integralist.co.uk/)
 10. [数据结构、算法与应用——C++语言描述](http://book.douban.com/subject/1081005/) 
 11. [Introduction to Algorithms (MIT 6.046J)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/index.htm) 
+12. [A Graduate Course in
+Applied Cryptography](https://toc.cryptobook.us/)

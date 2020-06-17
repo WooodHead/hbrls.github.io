@@ -16,6 +16,7 @@
 16. [宋小菜大前端](https://www.yuque.com/sxc/fe)
 17. https://github.com/you-dont-need
 18. [前端 DSL 实践指南（上）—— 内部 DSL](https://zhuanlan.zhihu.com/p/107947462)
+19. [知识图谱基础之RDF，RDFS与OWL](https://zhuanlan.zhihu.com/p/32122644)
 
 EGG
 ==
